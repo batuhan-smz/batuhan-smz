@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Batuhan Semiz
+<h1 style="color:red">
+  - 👋 Hi, I’m Batuhan Semiz
+</h1>
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Python
 - 📫 How to reach me : batuhansemiz15@gmail.com
@@ -6,7 +8,7 @@
 
 # <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"> Connect with me
 
-  <a href="https://www.linkedin.com/in/batuhan-semiz-3b3753217/">
+  <a href="https://www.linkedin.com/in/batuhan-semiz/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/BatuhanSemiz8">
