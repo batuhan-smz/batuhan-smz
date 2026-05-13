@@ -21,6 +21,5 @@
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/75934798/177515129-3f3ca972-c979-43bc-8538-718418aec817.gif)
 
 
